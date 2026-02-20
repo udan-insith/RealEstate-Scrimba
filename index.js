@@ -1,1 +1,5 @@
-const locationEl = document.getElementById('location-el')
+function getPropertyHtml() {
+
+}
+
+document.getElementById('container').innerHTML = getPropertyHtml()
