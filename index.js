@@ -1,0 +1,1 @@
+const locationEl = document.getElementById('location-el')
