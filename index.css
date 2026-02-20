@@ -12,7 +12,7 @@ body {
     justify-content: center;
     color: rgb(0, 0, 0);
     font-family: 'Roboto', sans-serif;
-    background-color: #b4d7ff;
+    background-color: #ffffff;
     flex-direction: column;
 }
 
@@ -20,23 +20,20 @@ body {
 .card {
     background-color: #ffffff;
     display: flex;
-    padding: 20px;
     margin: 30px 20px;
-    border-radius: 20px;
     box-shadow: 2px 2px 5px #000;
+    padding-right: 30px;
 }
 
 /* CARD DESCRIPTION STYLE */
 .card-right {
     margin-top: 30px;
     margin-left: 20px;
-    line-height: 27px;
-    font-weight: bold;
+    line-height: 36px;
+    font-size: 1.15rem;
 }
 
 /* IMG FIX */
 img {
-    width: 300px;
-    border-radius: 20px;
-    box-shadow: 1px 1px 5px #000;
+    width: 400px;
 }
