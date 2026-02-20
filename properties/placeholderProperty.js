@@ -5,3 +5,5 @@ const placeholderPropertyObj = {
     comment: 'This is the description',
     image: 'placeholder.jpg'
 }
+
+export default placeholderPropertyObj
