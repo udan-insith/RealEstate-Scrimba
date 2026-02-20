@@ -11,6 +11,8 @@ body {
     align-items: center;
     justify-content: center;
     color: rgb(0, 0, 0);
+    font-family: 'Roboto', sans-serif;
+    background-color: #b4d7ff;
 }
 
 /* CARD */
@@ -28,6 +30,7 @@ body {
     margin-top: 30px;
     margin-left: 20px;
     line-height: 27px;
+    font-weight: bold;
 }
 
 /* IMG FIX */
